@@ -63,11 +63,11 @@ Frontend runs on http://localhost:3000
 
   API Endpoints
 POST   /api/upload-excel
-GET    /api/analytics/products-per-category
-GET    /api/analytics/top-reviewed-products
-GET    /api/analytics/discount-distribution
-GET    /api/analytics/category-average-rating
-GET    /api/products?page=1&limit=10&search=&category=&rating=
+GET    /api/analytics/products-per-category         <br>
+GET    /api/analytics/top-reviewed-products         <br>
+GET    /api/analytics/discount-distribution         <br>
+GET    /api/analytics/category-average-rating         <br>
+GET    /api/products?page=1&limit=10&search=&category=&rating=         <br>
 
   Purpose
 
